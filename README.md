@@ -1,0 +1,1 @@
+This app was made for a local church in Poland. It is my first app I have ever developed, so It has a code written in first month of my learning and a code I am working on right now. It is still messy and doesn't have many things, but It's still in progress. If you want to run It on your device, just download the code, open in Xcode and run. Everything should be alright.
